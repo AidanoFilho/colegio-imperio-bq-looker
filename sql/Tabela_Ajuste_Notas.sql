@@ -14,6 +14,7 @@
 -- Observação:
 --   -Este padrão evita updates diretos na tabela fato e
 --   -segue boas práticas de pipelines analíticos.
+-- Autor: Aidano da Silva Filho
 -- ================================================================================
 
 CREATE OR REPLACE TABLE `bqportfolio.colegioimperio.atualizacao_nota`
