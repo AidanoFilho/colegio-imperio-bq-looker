@@ -1,5 +1,6 @@
 -- ================================================================================
 -- Projeto: Colégio Império — Notas & PAM
+-- Dataset: bqportfolio.colegioimperio
 -- Arquivo: Tabela_Ajuste_Notas.sql
 -- Tipo: Tabela Staging (Ajustes Manuais)
 -- Objetivo: 
