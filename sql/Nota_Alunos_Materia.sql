@@ -9,6 +9,7 @@
 -- Fonte:
 --  - fato: `bqportfolio.colegioimperio.notas`
 -- - dimensões: `bqportfolio.colegioimperio.estudante`, `bqportfolio.colegioimperio.materia`
+-- Autor: Aidano da Silva Filho
 -- ================================================================
 
 CREATE OR REPLACE TABLE `bqportfolio.colegioimperio.notas_alunos` AS
