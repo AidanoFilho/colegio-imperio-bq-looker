@@ -2,6 +2,7 @@
 -- Projeto: Notas Colégio Império 
 -- Dataset: bqportfolio.colegioimperio
 -- Arquivo: Tabelas_Colegio_Imperio.sql
+-- Tipo: Tabela DDL (cria a estrutura das tabelas principais)
 -- Objetivo: 
 --  - Criar tabelas com boas práticas de modelagem analítica no BigQuery;
 --  - Definir chaves lógicas (NOT ENFORCED)
