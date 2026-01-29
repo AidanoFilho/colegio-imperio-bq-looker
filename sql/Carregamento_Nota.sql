@@ -1,6 +1,7 @@
 --==========================================================================
 -- Projeto: Colégio Império — Notas & PAM
 -- Arquivo: Carregamento_Nota.sql
+-- Tipo: Tabela seed (carga inicial)
 -- Objetivo:
 --  - Inserir dados simulados para análise acadêmica;
 --  - Garantir reexecução segura via TRUNCATE.
